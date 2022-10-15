@@ -1,0 +1,25 @@
+{
+  "name": "react-holygrail",
+  "version": "1.0.0",
+  "description": "holy grail column data using redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm install",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leahselig/HolyGrail.git"
+  },
+  "author": "lselig444@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leahselig/HolyGrail.git/issues"
+  },
+  "homepage": "https://github.com/leahselig/HolyGrail.git",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^4.0.1"
+  }
+}
